@@ -4,7 +4,7 @@
 This scraper helps you scrape all your solution in [Leetcode](https://leetcode.com/) to a directory in your local machine.
 
 ## requirements
-* You must have any version of python 3 installed.
+* You must have any version of python3 installed.
 * You able to run a bash script.
 
 ## Installation
