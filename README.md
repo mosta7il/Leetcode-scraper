@@ -14,6 +14,7 @@ This scraper helps you scrape all your solution in [Leetcode](https://leetcode.c
 
 ```Some required packages will be installed.```
  
+ ```Submissions directory will be created to save solutions source files```
 
 ## features
 - If you have a multiple solution for the same problem, App will only get **the recent accepted** one for this problem. 
