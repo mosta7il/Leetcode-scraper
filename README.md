@@ -10,7 +10,7 @@ This scraper helps you scrape all your solution in [Leetcode](https://leetcode.c
 ## Installation
 1. You need to replace ```cookies.txt``` file with your leetcode cookies as a .txt file with the same name
     - We recommend use [**Get cookies.txt** extension](https://chrome.google.com/webstore/detail/get-cookiestxt/bgaddhkoddajcdgocldbbfleckgcbcid) to create this file.
-2. Run ```bash ./script.sh ``` 
+2. Run ```bash ./script.sh ```\n
 ```Some required packages will be installed.```
  
 
