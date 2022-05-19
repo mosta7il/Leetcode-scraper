@@ -1,7 +1,7 @@
 import requests
 import time
 from cookies import cookieHelper
-from helper import process_data
+from helper import process_data, dumb_visited_problems
 
 def app():
     cookies = cookieHelper()
@@ -30,6 +30,8 @@ def app():
                 break
         else:
             print('Request Problem...\nstatus_code: ', response.status_code, sep='', end='\n')
+        dumb_visited_problems()
+
 
 
 if __name__ == '__main__':
