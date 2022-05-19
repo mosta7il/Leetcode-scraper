@@ -17,6 +17,7 @@ def app():
             'lastkey': ''
         }
         response = s.get(url, cookies=cookies, params=params)
+        print('...Processing...')
         while response.ok:
             data = response.json()
             process_data(data)  
