@@ -1,5 +1,3 @@
-source venv/Scripts/activate
+mkdir submissions
+python app/application.py
 
-python application.py
-
-source deactivate
