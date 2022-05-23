@@ -17,5 +17,5 @@ This scraper helps you scrape all your solution in [Leetcode](https://leetcode.c
  ```Submissions directory will be created to save solutions source files```
 
 ## features
-- If you have a multiple solution for the same problem, App will only get **the recent accepted** one for this problem. 
+- If you have a multiple solution for the same problem, App will only get **the most recent accepted** one for this problem. 
 - App save a history of already scraped problems so, If you run it again, only not scraped solutions will be added.
